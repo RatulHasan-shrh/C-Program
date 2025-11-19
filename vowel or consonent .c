@@ -9,7 +9,7 @@ int main() {
     scanf("%c", &ch);
 
 
-    // Check if the character is a letter
+   
     if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) {
 
         // Check for vowels
@@ -27,3 +27,4 @@ int main() {
 
     return 0;
 }
+
